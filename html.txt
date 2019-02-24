@@ -1,0 +1,232 @@
+<!DOCTYPE HTML>
+<html class="no-js">
+<head>
+<!-- Basic Page Needs
+  ================================================== -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Bangalore Technological Institute</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="author" content="">
+<link rel="shortcut icon" href="images/favicon.ico">
+<!-- Mobile Specific Metas
+  ================================================== -->
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+<meta name="format-detection" content="telephone=no">
+<!-- CSS
+  ================================================== -->
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link href="plugins/prettyphoto/css/prettyPhoto.css" rel="stylesheet" type="text/css">
+<link href="plugins/owl-carousel/css/owl.carousel.css" rel="stylesheet" type="text/css">
+<link href="plugins/owl-carousel/css/owl.theme.css" rel="stylesheet" type="text/css">
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="css/ie.css" media="screen" /><![endif]-->
+<!-- Color Style -->
+<link href="colors/color1.css" rel="stylesheet" type="text/css">
+<!-- SCRIPTS
+  ================================================== -->
+<script src="js/modernizr.js"></script><!-- Modernizr -->
+</head>
+<body>
+<!--[if lt IE 7]>
+	<p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
+<![endif]-->
+<div class="body">
+  <!-- Start Site Header -->
+  <header class="site-header">
+    <div class="top-header hidden-xs" style="background:#2f2f2f !important;">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 col-sm-12">
+            <ul class="horiz-nav pull-left">
+              <li><a href="login.html"><i class="fa fa-user"></i> LOGIN </a></li>
+              <li><a href="infrastructure.html"><i class="fa fa-building"></i> INFRASTRUCTURE</a></li>
+              <li><a href="forms/broucher2015-16.pdf" download><i class="fa fa-fax"></i> DOWNLOAD PROSPECTUS</a></li>
+              <li><a href="research.html"><i class="fa fa-glass"></i> RESEARCH</a></li>
+              <li><a href="anti-ragging.html"><i class="fa fa-users"></i> ANTI RAGGING COMMITTEE</a></li>
+              <li><a href="careers.html"><i class="fa fa-paper-plane-o"></i> CAREERS</a></li>
+              <li><a href="transport.html"><i class="fa fa-language"></i> TRANSPORT</a></li>
+            </ul>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+    <div class="middle-header">
+      <div class="container">
+        <div class="row"><table style="width:100%;"><tr><td><a href="index.html"><img src="images/bti-logo.png" alt="BTI College Logo"></a></td><td><a href="#" class="visible-sm visible-xs menu-toggle"><i class="fa fa-bars"></i></a></td></tr></table></div>
+      </div>
+    </div>
+    <div class="main-menu-wrapper">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <nav class="navigation">
+              <ul class="sf-menu">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="#">About BTI</a>
+                  <ul class="dropdown">
+                    <li><a href="bti-at-glance.html">BTI at a Glance</a></li>
+                    <li><a href="trust-overview.html">Trust Overview</a></li>
+                    <li><a href="president-message.html">President's Message</a></li>
+                    <li><a href="principal-message.html">Principal's Message</a></li>
+                  </ul>
+                </li>
+                <li><a href="admissions.html">Admissions</a>
+					<ul class="dropdown">
+						<li><a href="admission-fee-structure.html">BTI Fee Structure</a></li>
+					</ul>
+				</li>
+                <li><a href="#">Academics</a>
+					<ul class="dropdown">
+						<li><a href="#">Departments</a>
+							<ul class="dropdown">
+								<li><a href="civil-dept.html">Civil</a></li>
+								<li><a href="mech-dept.html">Mechanical</a></li>
+								<li><a href="ece-dept.html">ECE</a></li>
+								<li><a href="cse-dept.html">CSE</a></li>
+								<li><a href="physics.html">Physics</a></li>
+								<li><a href="chemistry.html">Chemistry</a></li>
+								<li><a href="mathematics.html">Mathematics</a></li>
+							</ul>
+						</li>
+						<li><a href="forms/coe2016.xls" download>Academic Calendar</a></li>
+						<li><a href="http://vtu.ac.in/time-table/" target="_blank">Exam Schedule</a></li>
+					</ul>
+				</li>
+                <li><a href="facilities.html">Facilities</a>
+					<ul class="dropdown">
+						<li><a href="facilities.html#library">Library</a></li>
+						<li><a href="facilities.html#lab">Labs</a></li>
+						<li><a href="facilities.html#aud">Auditorium</a></li>
+						<li><a href="facilities.html#food">Food Court</a></li>
+						<li><a href="facilities.html#sport">Sports</a></li>
+						<li><a href="facilities.html#acco">Accomodation</a></li>
+						<li><a href="facilities.html#center">Center For Reforming Arts</a></li>
+						<li><a href="transport.html">Transport</a></li>
+					</ul>
+				</li>
+                
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="placement-cell.html">Placement Cell</a></li>
+                <li><a href="contact.html">Contact</a></li>
+              </ul>
+            </nav>
+       
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+  <!-- End Site Header -->
+  <a href="#"><img src="images/apply-now.png" style="display:block; line-height:0; padding:0px; position:fixed; right:5px; top:25%; z-index:9999;"></a>
+  <!-- Start Content -->
+  <div class="main" role="main">
+      <div id="content" class="content full">
+          <div class="container">
+              <div class="row">
+                  <div class="col-md-12">
+                      <div class="single-agent">
+						<div class="col-md-3">
+                           <div class="widget sidebar-widget widget-agents">
+							  <h3 class="widgettitle">Principal's Message</h3>
+								   <img src="images/principal-h-s-nanda.jpg" alt="Prabhakar Reddy" class="img-thumbnail">
+								   <table class="table table-bordered">
+										<thead>
+											<tr style="background:#0f80a0; color:#FFF;">
+												<th style="font-weight:bold; text-align:center;"> Dr.H.S.Nanda, B.E, M.Tech, Ph.D</th>
+											</tr>
+										</thead>
+										<tbody>
+											<tr>
+											  <td style="font-weight:bold; text-align:center; color:#000;">Principal, BTI</td>
+											</tr>
+										</tbody>
+									</table>
+								</div>
+							</div>
+                              <div class="col-md-9 col-sm-9"><br />
+								  <p align="justify">If a career in engineering is your dream then you've come to the right place. BTI will help to realize the career dreams of several thousand youngsters.If you ask me what sets BTI distinct from the herd of engineering colleges in India, my answer is just one simple word - PASSION. The passion create facilities that are on par with international universities. The passion to innovate and develop distinct teaching methodologies. The passion to create successful careers in engineering and management. The passion to deliver the best, at all times.</p>
+								  <p align="justify">Also BTI is established as a unique Engineering College along with an autonomous Society entitled "BESTAR"- BANGALORE EDUCATIONAL SOCIETY FOR TECHNOLOGICAL ADVANCEMENT AND RESEARCH for accomplishing academic excellence through research and development activities. This enforcement to attain highest standard entails the appointment of highly qualified, teaching and research savvy academicians and technocrats. This innovative approach not only gives them an inquistive bent of mind but encourages them to think out-of-the-box. Also, students gain the confidence to face challenges in the real world.</p>
+								  <p align="justify">With a team of well qualified, experienced and motivated faculty, I am confident that the engineers going out of this Institution will not only be humane but will be capable of facing the present day competitive global challenges.So, go ahead, broaden your horizons and get set for an unbeatable learning experience at BTI.</p>
+								 
+                              </div>
+							  
+                    </div>
+                    <div class="spacer-20"></div>
+                    <!-- Start Related Properties -->
+                   
+                  </div>
+                  <!-- Start Sidebar -->
+                 
+              </div>
+          </div>
+      </div>
+  </div>
+  <!-- Start Site Footer -->
+  <footer class="site-footer">
+      <div class="container">
+          <div class="row">
+            <div class="col-md-6 col-sm-6 footer-widget widget">
+                <h3 class="widgettitle" style="color:#FFF;">Bangalore Technological Institute</h3>
+                  <ul>
+                     <a href="index.html"><img src="images/bti-logo - footer.png" alt="Logo" style="width:70%;"></a><br />
+					<p align="justify" style="color:#FFF;"> Kodathi, Off Bangalore - Sarjapur Road, Bangalore East Taluk, Bangalore - 560 035 .
+					 Principal: 080 2843 9686, Fax: 080 2843 9687 ,
+					 To Contact Principal, Email: principal@btibangalore.org OR Email: contactus@btibangalore.org
+                  </ul>
+              </div>
+            <div class="col-md-3 col-sm-6 footer-widget widget">
+                <h3 class="widgettitle" style="color:#FFF;">Useful Links</h3>
+               <ul>
+					<li><a href="infrastructure.html" style="color:#FFF;">BTI Infrastructure</a></li>
+					<li><a href="forms/broucher2015-16.pdf" style="color:#FFF;" download>Download Prospectus</a></li>
+					<li><a href="anti-ragging.html" style="color:#FFF;">Anti Ragging Committee</a></li>
+					<li><a href="research.html" style="color:#FFF;">Research Corner</a></li>
+					<li><a href="placement-cell.html" style="color:#FFF;">Placement Cell</a></li>
+				</ul>
+           </div>
+            <div class="col-md-3 col-sm-6 footer-widget widget">
+                <h3 class="widgettitle" style="color:#FFF;">Our Newsletter</h3>
+               <p style="color:#FFF;" align="justify">Subscribe to BTI BANGALORE to receive the latest news straight to your inbox. By subscribing you will be able to have the updates on all the activities college conducts:</p>
+               <form>
+                    <input type="email" name="email" id="email" placeholder="Enter your email" class="form-control">
+                  <input type="submit" name="submit" class="btn btn-primary btn-block btn-lg" value="Subscribe" style="background:#f98f20;">
+               </form>
+           </div>
+       </div>
+   </div>
+  </footer>
+  <footer class="site-footer-bottom">
+    <div class="container">
+      <div class="row">
+        <div class="copyrights-col-left col-md-8 col-sm-8">
+          <p align="justify">&copy; 2017 BTI Bangalore. All Rights Reserved | Powered by <a href="http://work-benches.in/" target="_blank" style="text-decoration:none; font-weight:700; color:#000;">Work Benches</a></p>
+        </div>
+        <div class="copyrights-col-right col-md-4 col-sm-4">
+          <div class="social-icons">
+              <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a>
+             <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a>
+             <a href="http://www.pinterest.com/" target="_blank"><i class="fa fa-pinterest"></i></a>
+             <a href="https://plus.google.com/" target="_blank"><i class="fa fa-google-plus"></i></a>
+             <a href="http://www.pinterest.com/" target="_blank"><i class="fa fa-youtube"></i></a>
+             <a href="#"><i class="fa fa-rss"></i></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- End Site Footer -->
+  <a id="back-to-top"><i class="fa fa-angle-double-up"></i></a>
+</div>
+<script src="js/jquery-2.0.0.min.js"></script> <!-- Jquery Library Call --> 
+<script src="plugins/prettyphoto/js/prettyphoto.js"></script> <!-- PrettyPhoto Plugin --> 
+<script src="plugins/owl-carousel/js/owl.carousel.min.js"></script> <!-- Owl Carousel --> 
+<script src="plugins/flexslider/js/jquery.flexslider.js"></script> <!-- FlexSlider --> 
+<script src="js/helper-plugins.js"></script> <!-- Plugins --> 
+<script src="js/bootstrap.js"></script> <!-- UI --> 
+<script src="js/waypoints.js"></script> <!-- Waypoints --> 
+<script src="js/init.js"></script> <!-- All Scripts -->
+<!--[if lte IE 9]><script src="js/script_ie.js"></script><![endif]-->  
+</body>
+</html
